@@ -1,0 +1,4 @@
+https://luna.flemingcollege.ca:6443/arcgis/rest/services/Geom99on/DNoakesCanadaPro/MapServer/0
+
+https://dnoakes94.github.io/Week9/mapboxdemo.html
+
